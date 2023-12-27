@@ -1,4 +1,4 @@
-from libs.easyrsa import EasyRSA
+from lib.easyrsa import EasyRSA
 # 示例用法
 rsa = EasyRSA(256)
 public_key, private_key = rsa.generate_keys()

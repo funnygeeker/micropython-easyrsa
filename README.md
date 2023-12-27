@@ -6,7 +6,7 @@
 
 ### Example Code
 ```python
-from libs.easyrsa import EasyRSA
+from lib.easyrsa import EasyRSA
 
 # Example usage
 rsa = EasyRSA(256)
